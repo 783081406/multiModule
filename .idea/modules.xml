@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/systemDao/systemDao.iml" filepath="$PROJECT_DIR$/systemDao/systemDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemDomain/systemDomain.iml" filepath="$PROJECT_DIR$/systemDomain/systemDomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemParent/systemParent.iml" filepath="$PROJECT_DIR$/systemParent/systemParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemService/systemService.iml" filepath="$PROJECT_DIR$/systemService/systemService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemWeb/systemWeb.iml" filepath="$PROJECT_DIR$/systemWeb/systemWeb.iml" />
+    </modules>
+  </component>
+</project>
